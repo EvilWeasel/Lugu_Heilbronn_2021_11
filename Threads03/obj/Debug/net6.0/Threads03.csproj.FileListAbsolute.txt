@@ -1,0 +1,15 @@
+C:\Users\Tobia\source\Lugu_Heilbronn_2021_11\Threads03\bin\Debug\net6.0\Threads03.exe
+C:\Users\Tobia\source\Lugu_Heilbronn_2021_11\Threads03\bin\Debug\net6.0\Threads03.deps.json
+C:\Users\Tobia\source\Lugu_Heilbronn_2021_11\Threads03\bin\Debug\net6.0\Threads03.runtimeconfig.json
+C:\Users\Tobia\source\Lugu_Heilbronn_2021_11\Threads03\bin\Debug\net6.0\Threads03.dll
+C:\Users\Tobia\source\Lugu_Heilbronn_2021_11\Threads03\bin\Debug\net6.0\ref\Threads03.dll
+C:\Users\Tobia\source\Lugu_Heilbronn_2021_11\Threads03\bin\Debug\net6.0\Threads03.pdb
+C:\Users\Tobia\source\Lugu_Heilbronn_2021_11\Threads03\obj\Debug\net6.0\Threads03.csproj.AssemblyReference.cache
+C:\Users\Tobia\source\Lugu_Heilbronn_2021_11\Threads03\obj\Debug\net6.0\Threads03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia\source\Lugu_Heilbronn_2021_11\Threads03\obj\Debug\net6.0\Threads03.AssemblyInfoInputs.cache
+C:\Users\Tobia\source\Lugu_Heilbronn_2021_11\Threads03\obj\Debug\net6.0\Threads03.AssemblyInfo.cs
+C:\Users\Tobia\source\Lugu_Heilbronn_2021_11\Threads03\obj\Debug\net6.0\Threads03.csproj.CoreCompileInputs.cache
+C:\Users\Tobia\source\Lugu_Heilbronn_2021_11\Threads03\obj\Debug\net6.0\Threads03.dll
+C:\Users\Tobia\source\Lugu_Heilbronn_2021_11\Threads03\obj\Debug\net6.0\ref\Threads03.dll
+C:\Users\Tobia\source\Lugu_Heilbronn_2021_11\Threads03\obj\Debug\net6.0\Threads03.pdb
+C:\Users\Tobia\source\Lugu_Heilbronn_2021_11\Threads03\obj\Debug\net6.0\Threads03.genruntimeconfig.cache

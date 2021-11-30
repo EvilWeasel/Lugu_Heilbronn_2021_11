@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b35fa9c5-9528-4288-963d-3a4b58d3c289": {
+      "ProjectGuid": "b35fa9c5-9528-4288-963d-3a4b58d3c289",
+      "DisplayName": "Threads04",
+      "ColorIndex": 0
+    },
+    "7a5eb5e5-f4f7-4dda-9719-905c666dd63d": {
+      "ProjectGuid": "7a5eb5e5-f4f7-4dda-9719-905c666dd63d",
+      "DisplayName": "Aufgabe_Async01",
+      "ColorIndex": 1
+    },
+    "08f08f6e-d651-4e4d-91b4-0959130ed92c": {
+      "ProjectGuid": "08f08f6e-d651-4e4d-91b4-0959130ed92c",
+      "DisplayName": "Threads_Winforms_05",
+      "ColorIndex": 2
+    },
+    "59fdcd34-6587-431f-8efe-4bb28838aa3e": {
+      "ProjectGuid": "59fdcd34-6587-431f-8efe-4bb28838aa3e",
+      "DisplayName": "Speisende_Philosophen",
+      "ColorIndex": 3
+    },
+    "0bc2c5e2-0c36-4a22-8f7d-5349f689aca7": {
+      "ProjectGuid": "0bc2c5e2-0c36-4a22-8f7d-5349f689aca7",
+      "DisplayName": "SpeisendePhilosophen",
+      "ColorIndex": 4
+    },
+    "837e9383-4f81-4c22-a669-bc198cbc17c8": {
+      "ProjectGuid": "837e9383-4f81-4c22-a669-bc198cbc17c8",
+      "DisplayName": "spp",
+      "ColorIndex": 5
+    },
+    "99bd944e-aa85-40fc-88de-bc87a2bd4f91": {
+      "ProjectGuid": "99bd944e-aa85-40fc-88de-bc87a2bd4f91",
+      "DisplayName": "EF_01",
+      "ColorIndex": 6
+    },
+    "227eef6e-8bc1-47ac-ae29-1cc8190e520a": {
+      "ProjectGuid": "227eef6e-8bc1-47ac-ae29-1cc8190e520a",
+      "DisplayName": "Threads_01",
+      "ColorIndex": 7
+    },
+    "6a1bccb6-ab4f-4c24-9cc5-30d70ec95620": {
+      "ProjectGuid": "6a1bccb6-ab4f-4c24-9cc5-30d70ec95620",
+      "DisplayName": "Reflections01",
+      "ColorIndex": 8
+    },
+    "bb23aa1d-ce20-4feb-8001-f30062d6b3da": {
+      "ProjectGuid": "bb23aa1d-ce20-4feb-8001-f30062d6b3da",
+      "DisplayName": "MVVM01",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

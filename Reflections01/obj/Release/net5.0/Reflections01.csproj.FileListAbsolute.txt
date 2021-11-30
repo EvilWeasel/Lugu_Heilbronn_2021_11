@@ -1,0 +1,16 @@
+C:\Users\ulimu\source\repos\Lugu_Heilbronn_2021_11\Reflections01\bin\Release\net5.0\Reflections01.exe
+C:\Users\ulimu\source\repos\Lugu_Heilbronn_2021_11\Reflections01\bin\Release\net5.0\Reflections01.deps.json
+C:\Users\ulimu\source\repos\Lugu_Heilbronn_2021_11\Reflections01\bin\Release\net5.0\Reflections01.runtimeconfig.json
+C:\Users\ulimu\source\repos\Lugu_Heilbronn_2021_11\Reflections01\bin\Release\net5.0\Reflections01.runtimeconfig.dev.json
+C:\Users\ulimu\source\repos\Lugu_Heilbronn_2021_11\Reflections01\bin\Release\net5.0\Reflections01.dll
+C:\Users\ulimu\source\repos\Lugu_Heilbronn_2021_11\Reflections01\bin\Release\net5.0\ref\Reflections01.dll
+C:\Users\ulimu\source\repos\Lugu_Heilbronn_2021_11\Reflections01\bin\Release\net5.0\Reflections01.pdb
+C:\Users\ulimu\source\repos\Lugu_Heilbronn_2021_11\Reflections01\obj\Release\net5.0\Reflections01.csproj.AssemblyReference.cache
+C:\Users\ulimu\source\repos\Lugu_Heilbronn_2021_11\Reflections01\obj\Release\net5.0\Reflections01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulimu\source\repos\Lugu_Heilbronn_2021_11\Reflections01\obj\Release\net5.0\Reflections01.AssemblyInfoInputs.cache
+C:\Users\ulimu\source\repos\Lugu_Heilbronn_2021_11\Reflections01\obj\Release\net5.0\Reflections01.AssemblyInfo.cs
+C:\Users\ulimu\source\repos\Lugu_Heilbronn_2021_11\Reflections01\obj\Release\net5.0\Reflections01.csproj.CoreCompileInputs.cache
+C:\Users\ulimu\source\repos\Lugu_Heilbronn_2021_11\Reflections01\obj\Release\net5.0\Reflections01.dll
+C:\Users\ulimu\source\repos\Lugu_Heilbronn_2021_11\Reflections01\obj\Release\net5.0\ref\Reflections01.dll
+C:\Users\ulimu\source\repos\Lugu_Heilbronn_2021_11\Reflections01\obj\Release\net5.0\Reflections01.pdb
+C:\Users\ulimu\source\repos\Lugu_Heilbronn_2021_11\Reflections01\obj\Release\net5.0\Reflections01.genruntimeconfig.cache

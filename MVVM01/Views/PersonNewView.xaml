@@ -1,0 +1,64 @@
+﻿<UserControl x:Class="MVVM01.Views.PersonNewView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MVVM01.Views"
+             xmlns:vm="clr-namespace:MVVM01.Viewmodels"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.DataContext>
+        <vm:PersonNewVM  />
+    </UserControl.DataContext>
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="3" Text="Personen Eingabe" />
+        <!-- Row 1: Anrede -->
+        <TextBlock Grid.Row="1" Grid.Column="1" Text="Anrede"></TextBlock>
+        <ComboBox Grid.Row="1" Grid.Column="2"
+                  ItemsSource="{Binding Anredenliste}"
+                  SelectedIndex="{Binding AnredeIndex}"></ComboBox>
+        <!-- Row 2: Vorname -->
+        <TextBlock Grid.Row="2" Grid.Column="1"
+                   Text="Vorname"></TextBlock>
+        <TextBox Grid.Row="2" Grid.Column="2"
+                 Text="{Binding Vorname}"></TextBox>
+        
+        <!-- Row 3: Nachname -->
+        <TextBlock Grid.Row="3" Grid.Column="1" Text="Nachname"></TextBlock>
+        <TextBox Grid.Row="3" Grid.Column="2"
+                 Text="{Binding Nachname}"
+                 ></TextBox>
+        
+        <!-- Row 4: Geburtsdatum -->
+        <TextBlock Grid.Row="4" Grid.Column="1" Text="Geburtsdatum"></TextBlock>
+        <DatePicker Grid.Row="4" Grid.Column="2" 
+                    SelectedDate="{Binding Geburtsdatum}" ></DatePicker>
+        
+        <!-- Row 5: Gehalt-->
+        <TextBlock Grid.Row="5" Grid.Column="1" Text="Gehalt"></TextBlock>
+        <TextBox Grid.Row="5" Grid.Column="2" Text="{Binding Gehalt}"></TextBox>
+        
+        <!-- Row 6: Knöpfe -->
+        <StackPanel Grid.Row="6" Grid.Column="1" Grid.ColumnSpan="3" Orientation="Horizontal">
+            <Button Content="Speichern" Margin="0 0 10 0" Command="{Binding SaveCommand}"/>
+            <Button Content="Löschen" Margin="0 0 10 0" Command="{Binding ResetCommand}" />
+        </StackPanel>
+    </Grid>
+</UserControl>

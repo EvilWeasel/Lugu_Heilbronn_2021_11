@@ -1,0 +1,134 @@
+﻿<Window x:Class="spp.MainWindow"
+        x:Name="mainw"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:spp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="800">
+    <Grid x:Name="geilesGrid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <!-- Philosophen -->
+        <Button 
+            Content="P1"
+            FontSize="28"
+            FontWeight="Bold"
+            Grid.Column="2"
+            Grid.Row="4"
+            BorderBrush="Green"
+            BorderThickness="12"
+            x:Name="p1"
+            />
+        <Button 
+            Content="P2"
+            FontSize="28"
+            FontWeight="Bold"
+            Grid.Column="4"
+            Grid.Row="2"
+            BorderBrush="Yellow"
+            BorderThickness="12"
+            x:Name="p2"
+            />
+        <Button 
+            Content="P3"
+            FontSize="28"
+            FontWeight="Bold"
+            Grid.Column="3"
+            Grid.Row="0"
+            BorderBrush="Red"
+            BorderThickness="12"
+            x:Name="p3"
+            />
+        <Button 
+            Content="P4"
+            FontSize="28"
+            FontWeight="Bold"
+            Grid.Column="1"
+            Grid.Row="0"
+            BorderBrush="Black"
+            BorderThickness="12"
+            x:Name="p4"
+            />
+        <Button 
+            Content="P5"
+            FontSize="28"
+            FontWeight="Bold"
+            Grid.Column="0"
+            Grid.Row="2"
+            BorderBrush="Purple"
+            BorderThickness="12"
+            x:Name="p5"
+            />
+        
+        <!-- Gabeln -->
+
+        <Button 
+            Content="G1"
+            FontSize="28"
+            FontWeight="Bold"
+            Grid.Column="1"
+            Grid.Row="3"
+            BorderBrush="White"
+            BorderThickness="12"
+            x:Name="g1"
+            />
+        <Button 
+            Content="G2"
+            FontSize="28"
+            FontWeight="Bold"
+            Grid.Column="3"
+            Grid.Row="3"
+            BorderBrush="White"
+            BorderThickness="12"
+            x:Name="g2"
+            />
+        <Button 
+            Content="G3"
+            FontSize="28"
+            FontWeight="Bold"
+            Grid.Column="3"
+            Grid.Row="1"
+            BorderBrush="White"
+            BorderThickness="12"
+            x:Name="g3"
+            />
+        <Button 
+            Content="G4"
+            FontSize="28"
+            FontWeight="Bold"
+            Grid.Column="2"
+            Grid.Row="0"
+            BorderBrush="White"
+            BorderThickness="12"
+            x:Name="g4"
+            />
+        <Button 
+            Content="G5"
+            FontSize="28"
+            FontWeight="Bold"
+            Grid.Column="1"
+            Grid.Row="1"
+            BorderBrush="White"
+            BorderThickness="12"
+            x:Name="g5"
+            />
+
+
+
+    </Grid>
+</Window>

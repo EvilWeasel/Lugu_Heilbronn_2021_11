@@ -1,0 +1,17 @@
+C:\Users\Tobia\source\schule\Lugu_Heilbronn_2021_11\Threads_Winforms_05\bin\Debug\net6.0-windows\Threads_Winforms_05.exe
+C:\Users\Tobia\source\schule\Lugu_Heilbronn_2021_11\Threads_Winforms_05\bin\Debug\net6.0-windows\Threads_Winforms_05.deps.json
+C:\Users\Tobia\source\schule\Lugu_Heilbronn_2021_11\Threads_Winforms_05\bin\Debug\net6.0-windows\Threads_Winforms_05.runtimeconfig.json
+C:\Users\Tobia\source\schule\Lugu_Heilbronn_2021_11\Threads_Winforms_05\bin\Debug\net6.0-windows\Threads_Winforms_05.dll
+C:\Users\Tobia\source\schule\Lugu_Heilbronn_2021_11\Threads_Winforms_05\bin\Debug\net6.0-windows\ref\Threads_Winforms_05.dll
+C:\Users\Tobia\source\schule\Lugu_Heilbronn_2021_11\Threads_Winforms_05\bin\Debug\net6.0-windows\Threads_Winforms_05.pdb
+C:\Users\Tobia\source\schule\Lugu_Heilbronn_2021_11\Threads_Winforms_05\obj\Debug\net6.0-windows\Threads_Winforms_05.csproj.AssemblyReference.cache
+C:\Users\Tobia\source\schule\Lugu_Heilbronn_2021_11\Threads_Winforms_05\obj\Debug\net6.0-windows\Threads_Winforms_05.Form1.resources
+C:\Users\Tobia\source\schule\Lugu_Heilbronn_2021_11\Threads_Winforms_05\obj\Debug\net6.0-windows\Threads_Winforms_05.csproj.GenerateResource.cache
+C:\Users\Tobia\source\schule\Lugu_Heilbronn_2021_11\Threads_Winforms_05\obj\Debug\net6.0-windows\Threads_Winforms_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobia\source\schule\Lugu_Heilbronn_2021_11\Threads_Winforms_05\obj\Debug\net6.0-windows\Threads_Winforms_05.AssemblyInfoInputs.cache
+C:\Users\Tobia\source\schule\Lugu_Heilbronn_2021_11\Threads_Winforms_05\obj\Debug\net6.0-windows\Threads_Winforms_05.AssemblyInfo.cs
+C:\Users\Tobia\source\schule\Lugu_Heilbronn_2021_11\Threads_Winforms_05\obj\Debug\net6.0-windows\Threads_Winforms_05.csproj.CoreCompileInputs.cache
+C:\Users\Tobia\source\schule\Lugu_Heilbronn_2021_11\Threads_Winforms_05\obj\Debug\net6.0-windows\Threads_Winforms_05.dll
+C:\Users\Tobia\source\schule\Lugu_Heilbronn_2021_11\Threads_Winforms_05\obj\Debug\net6.0-windows\ref\Threads_Winforms_05.dll
+C:\Users\Tobia\source\schule\Lugu_Heilbronn_2021_11\Threads_Winforms_05\obj\Debug\net6.0-windows\Threads_Winforms_05.pdb
+C:\Users\Tobia\source\schule\Lugu_Heilbronn_2021_11\Threads_Winforms_05\obj\Debug\net6.0-windows\Threads_Winforms_05.genruntimeconfig.cache

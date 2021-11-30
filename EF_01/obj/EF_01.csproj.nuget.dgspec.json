@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tobia\\source\\Lugu_Heilbronn_2021_11\\Lugu_Heilbronn_2021_11\\EF_01\\EF_01.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tobia\\source\\Lugu_Heilbronn_2021_11\\Lugu_Heilbronn_2021_11\\DataGenerator\\DataGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tobia\\source\\Lugu_Heilbronn_2021_11\\Lugu_Heilbronn_2021_11\\DataGenerator\\DataGenerator.csproj",
+        "projectName": "DataGenerator",
+        "projectPath": "C:\\Users\\Tobia\\source\\Lugu_Heilbronn_2021_11\\Lugu_Heilbronn_2021_11\\DataGenerator\\DataGenerator.csproj",
+        "packagesPath": "C:\\Users\\Tobia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tobia\\source\\Lugu_Heilbronn_2021_11\\Lugu_Heilbronn_2021_11\\DataGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tobia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tobia\\source\\Lugu_Heilbronn_2021_11\\Lugu_Heilbronn_2021_11\\EF_01\\EF_01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tobia\\source\\Lugu_Heilbronn_2021_11\\Lugu_Heilbronn_2021_11\\EF_01\\EF_01.csproj",
+        "projectName": "EF_01",
+        "projectPath": "C:\\Users\\Tobia\\source\\Lugu_Heilbronn_2021_11\\Lugu_Heilbronn_2021_11\\EF_01\\EF_01.csproj",
+        "packagesPath": "C:\\Users\\Tobia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tobia\\source\\Lugu_Heilbronn_2021_11\\Lugu_Heilbronn_2021_11\\EF_01\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tobia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Tobia\\source\\Lugu_Heilbronn_2021_11\\Lugu_Heilbronn_2021_11\\DataGenerator\\DataGenerator.csproj": {
+                "projectPath": "C:\\Users\\Tobia\\source\\Lugu_Heilbronn_2021_11\\Lugu_Heilbronn_2021_11\\DataGenerator\\DataGenerator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
